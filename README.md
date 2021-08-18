@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on React, NodeJs.
-- 📫 You can react me at mkamalkayani@gmail.com
+- 📫 You can reach me at mkamalkayani@gmail.com
 
 <!---
 mkamalkayani/mkamalkayani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
